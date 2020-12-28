@@ -565,6 +565,140 @@ const DEFAULT_PROGRAMS = {
                 }
             ]
         }
+    ],
+    "home_hang": [
+        {
+            "title":        "Warm up",
+            "description":  "Properly warming up is very important to avoid injuries",
+            "exercises":    [
+                {
+                    "title":        "Jugs pull ups",
+                    "description":  "Pull up twice",
+                    "left":         1,
+                    "right":        1,
+                    "hold":         5,
+                    "rest":         4,
+                    "repeat":       3,
+                    "pause":        15,
+                },
+                {
+                    "title":        "Four fingers pull ups",
+                    "description":  "Pull up once, then hang on straight arms",
+                    "left":         3,
+                    "right":        3,
+                    "hold":         6,
+                    "rest":         5,
+                    "repeat":       5,
+                    "pause":        30,
+                },
+                {
+                    "title":        "Four fingers lock off",
+                    "description":  "Pull up and lock off with bent arms",
+                    "left":         3,
+                    "right":        3,
+                    "hold":         6,
+                    "rest":         4,
+                    "repeat":       4,
+                    "pause":        60,
+                },
+                {
+                    "title":        "Four fingers middle hang",
+                    "description":  "Hang on straight arms",
+                    "left":         8,
+                    "right":        8,
+                    "hold":         7,
+                    "rest":         3,
+                    "repeat":       5,
+                    "pause":        60,
+                }
+            ]
+        },
+        {
+            "title":        "Hang time",
+            "description":  "Work on your hang time",
+            "exercises":    [
+                {
+                    "title":        "Warm up",
+                    "description":  "Hang on straight arms",
+                    "left":         1,
+                    "right":        1,
+                    "hold":         7,
+                    "rest":         4,
+                    "repeat":       5,
+                    "pause":        15,
+                },
+                {
+                    "title":        "Four fingers hang",
+                    "description":  "Hang on straight arms",
+                    "left":         3,
+                    "right":        3,
+                    "hold":         7,
+                    "rest":         4,
+                    "repeat":       6,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Four fingers hang",
+                    "description":  "Hang on straight arms",
+                    "left":         9,
+                    "right":        9,
+                    "hold":         7,
+                    "rest":         3,
+                    "repeat":       4,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Four fingers hang",
+                    "description":  "Hang on straight arms",
+                    "left":         9,
+                    "right":        9,
+                    "hold":         7,
+                    "rest":         3,
+                    "repeat":       4,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Three fingers left side",
+                    "description":  "Hang on straight arms",
+                    "left":         4,
+                    "right":        3,
+                    "hold":         7,
+                    "rest":         3,
+                    "repeat":       4,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Three fingers right side",
+                    "description":  "Hang on straight arms",
+                    "left":         3,
+                    "right":        4,
+                    "hold":         7,
+                    "rest":         3,
+                    "repeat":       4,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Three fingers pull up",
+                    "description":  "Pull up once, then hang on straight arms",
+                    "left":         7,
+                    "right":        7,
+                    "hold":         5,
+                    "rest":         4,
+                    "repeat":       4,
+                    "pause":        120,
+                },
+                {
+                    "title":        "Warm down",
+                    "description":  "Hang on straight arms",
+                    "left":         1,
+                    "right":        1,
+                    "hold":         6,
+                    "rest":         4,
+                    "repeat":       7,
+                    "pause":        120,
+                }
+            ]
+        }
     ]
 };
 
