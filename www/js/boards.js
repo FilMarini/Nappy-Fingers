@@ -327,7 +327,7 @@ const BOARDS = {
             }
         }
     },
-    "hangboard": {
+    "home_hang": {
         "name":  "Homemade hangboard",
         "image": "trave.png",
         "left_holds": {
