@@ -326,6 +326,110 @@ const BOARDS = {
                 "image": "griptonite_m4p.png"
             }
         }
+    },
+    "hangboard": {
+        "name":  "Homemade hangboard",
+        "image": "trave.png",
+        "left_holds": {
+            "0":    {
+                "name": "no hold",
+                "image": ""
+            },
+            "1":    {
+                "name": "left jug",
+                "image": "trave_t1j.png"
+            },
+            "2":    {
+                "name": "middle jug",
+                "image": "trave_t2j.png"
+            },
+            "3":    {
+                "name": "easy four finger pocket",
+                "image": "trave_t1p.png"
+            },
+            "4":    {
+                "name": "hard three finger pocket",
+                "image": "trave_t2p.png"
+            },
+            "5":    {
+                "name": "easy two finger pocket",
+                "image": "trave_t3p.png"
+            },
+            "6":   {
+                "name": "easy one finger pocket",
+                "image": "trave_m1p.png"
+            },
+            "7":    {
+                "name": "easy three finger pocket",
+                "image": "trave_m2p.png"
+            },
+            "8":    {
+                "name": "central easy four finger pocket",
+                "image": "trave_m3p.png"
+            },
+            "9":   {
+                "name": "hard four finger pocket",
+                "image": "trave_b1p.png"
+            },
+            "10":   {
+                "name": "hard two finger pocket",
+                "image": "trave_b2p.png"
+            },
+            "11":   {
+                "name": "hard one finger pocket",
+                "image": "trave_b3p.png"
+            }
+        },
+        "right_holds": {
+            "0":    {
+                "name": "no hold",
+                "image": ""
+            },
+            "1":    {
+                "name": "right jug",
+                "image": "trave_t3j.png"
+            },
+            "2":    {
+                "name": "middle jug",
+                "image": "trave_t2j.png"
+            },
+            "3":    {
+                "name": "easy four finger pocket",
+                "image": "trave_t6p.png"
+            },
+            "4":    {
+                "name": "hard three finger pocket",
+                "image": "trave_t5p.png"
+            },
+            "5":    {
+                "name": "easy two finger pocket",
+                "image": "trave_t4p.png"
+            },
+            "6":   {
+                "name": "easy one finger pocket",
+                "image": "trave_m6p.png"
+            },
+            "7":    {
+                "name": "easy three finger pocket",
+                "image": "trave_m5p.png"
+            },
+            "8":    {
+                "name": "central easy four finger pocket",
+                "image": "trave_m4p.png"
+            },
+            "9":   {
+                "name": "hard four finger pocket",
+                "image": "trave_b6p.png"
+            },
+            "10":   {
+                "name": "hard two finger pocket",
+                "image": "trave_b5p.png"
+            },
+            "11":   {
+                "name": "hard one finger pocket",
+                "image": "trave_b4p.png"
+            }
+        }
     }
 };
 
